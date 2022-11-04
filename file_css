@@ -1,0 +1,15 @@
+p {
+    font-style: normal;
+    color: rgb(47, 79, 79);
+    font-size: 16px;
+    line-height: 1;
+  
+  }
+h1 {
+    color: rgb(56, 102, 69)
+}
+
+.darkgreen {
+    color: rgb(30, 63, 39);
+    background-color: rgb(215, 235, 212);
+}
